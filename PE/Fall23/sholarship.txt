@@ -1,0 +1,4 @@
+S01,John,CL01,Math,9.0
+S02,Mary,CL02,Science,8.7
+S03,Tom,CL01,Math,7.8
+S04,Linda,CL03,English,8.9
