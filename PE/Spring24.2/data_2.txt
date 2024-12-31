@@ -1,0 +1,3 @@
+The quick brown fox jumps over the lazy dog.
+The dog was not lazy, but rather energetic.
+Foxes are quick and the dog is clever.
